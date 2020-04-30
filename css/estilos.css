@@ -1,0 +1,31 @@
+body{
+color:rgb(255,255,255);
+
+}
+
+.boton1{
+ background:rgb(255,240,128);
+ color:red;
+ width:150px;
+ margin:20px 20px;
+
+}
+.boton2{
+ background:rgb(255,240,128);
+ color:green;
+ width:150px;
+ margin:80px 20px;
+
+}
+.boton3{
+ background:rgb(255,240,128);
+ color:blue;
+ width:150px;
+ margin:150px 20px;
+
+}
+   a[href ="https://www.astromia.com/astronomia/negroagujero.htm"]{
+   color:red;
+
+
+    }
